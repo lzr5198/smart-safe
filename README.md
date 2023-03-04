@@ -1,4 +1,4 @@
-# smart-safe
+# Smart Safe
 [Project Summary](https://docs.google.com/document/d/1-Y65i2ie41AcH_EYdyMR3hRuXCMJUDuD/edit?usp=sharing&ouid=101059759176959953567&rtpof=true&sd=true)<br />
 [Project Report](https://docs.google.com/presentation/d/1Apq2bdK1hNvUPGRmWCKU6PdfjtMfpSW6/edit?usp=sharing&ouid=101059759176959953567&rtpof=true&sd=true)<br />
 [Proposal Presentation Video](https://drive.google.com/file/d/1-8MP-9lCivLsW8mHtV9f1WBJFtJwKdCY/view?usp=sharing)<br />
